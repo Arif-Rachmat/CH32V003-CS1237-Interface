@@ -126,7 +126,7 @@ The CS1237 is popular in precision weight scales and bridge sensor applications.
 
 Moreover, both of the device is popular in the ultra-cheap.....
 
-CH32V003 (~$0.30) + CS1237 (~$0.50) = **$1 High-Res measurement front-end**
+CH32V003 (±$0.30) + CS1237 (±$0.50) ≈ **$1 High-Res measurement front-end**
 
 **It's CHEAP!**
 
@@ -134,4 +134,4 @@ CH32V003 (~$0.30) + CS1237 (~$0.50) = **$1 High-Res measurement front-end**
 
 ## License
 
-MIT
+[MIT](/LICENSE)
